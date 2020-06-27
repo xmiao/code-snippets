@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aea3d041-13e3-4baa-9341-c84b00e0a017" name="Default Changelist" comment="init">
-      <change afterPath="$PROJECT_DIR$/a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="aea3d041-13e3-4baa-9341-c84b00e0a017" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/organized.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test-3.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code-scnippets/a.json" beforeDir="false" afterPath="$PROJECT_DIR$/code-snippets/a.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code-scnippets/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/code-snippets/test.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/organized.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/organized.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/test.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,15 +30,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.13.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\Users\miaox\WebstormProjects\test\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\miaox\WebstormProjects\test" />
       <recent name="C:\Users\miaox\WebstormProjects\test\data" />
+      <recent name="C:\Users\miaox\WebstormProjects\test" />
     </key>
   </component>
   <component name="RunManager" selected="npm.start:idea">
@@ -113,7 +110,7 @@
       <workItem from="1593168547751" duration="5425000" />
       <workItem from="1593221844241" duration="2908000" />
       <workItem from="1593224789600" duration="2837000" />
-      <workItem from="1593227922778" duration="3214000" />
+      <workItem from="1593227922778" duration="10708000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1593222304065</created>
@@ -143,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593224660094</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init">
+      <created>1593243866415</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593243866415</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,10 +177,10 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="340" y="28" key="#start:idea/0.0.1280.689@0.0.1280.689" timestamp="1593224687941" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1593227899686">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1593243865529">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1593227899686" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1593243865529" />
     <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1593223758077">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -245,9 +249,9 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1259" height="208" key="GridCell.Tab.3.right/0.0.1280.689@0.0.1280.689" timestamp="1593227901236" />
-    <state x="0" y="78" key="Vcs.Push.Dialog.v2" timestamp="1593224528514">
+    <state x="0" y="78" key="Vcs.Push.Dialog.v2" timestamp="1593243870617">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="0" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1593224528514" />
+    <state x="0" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1593243870617" />
   </component>
 </project>

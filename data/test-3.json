@@ -1,0 +1,27 @@
+{
+  "type": "object",
+  "hospitalSOID":
+  \
+  ndeptID
+  \
+  nDiagnosis
+  \
+  nnoteTypeID
+  \
+  nsectionTypeID
+  \
+  ncontextBefore
+  \
+  nqueryText
+  \
+  ncontextAfter
+  \
+  ntopN
+  \
+  nuserID
+  \
+  ncount
+  \
+  ndata
+  "
+}

@@ -1,90 +1,48 @@
-[
+let a = [
   {
     "score": 6.91,
     "display": "患儿入院前＿天无明显诱因出现发热，",
     "structure": [
       {
-        "value": {
-          "text": "患儿"
-        },
+        "value": {"text": "患儿"},
         "tag": "P"
       },
       {
         "conceptID": 390110004,
-        "value": {
-          "text": "入院前3天"
-        },
+        "value": {"text": "入院前3天"},
         "tag": "T",
         "type": "单选",
         "choices": [
-          {
-            "text": "入院前{数值}天",
-            "vars": [
-              {
-                "type": "数值"
-              }
-            ]
-          },
-          {
-            "text": "入院前{数值}月余",
-            "vars": [
-              {
-                "type": "数值"
-              }
-            ]
-          }
+          {"text": "入院前{数值}天", "vars": [{"type": "数值"}]},
+          {"text": "入院前{数值}月余", "vars": [{"type": "数值"}]}
         ]
       },
       {
         "concept": 390110008,
-        "value": {
-          "text": "无明显诱因",
-          "concept": "##待定##"
-        },
+        "value": {"text": "无明显诱因", "concept": "##待定##"},
         "tag": "S",
         "type": "单选",
         "choices": [
-          {
-            "text": "无明显诱因",
-            "concept": "##待定##"
-          },
-          {
-            "text": "受凉后",
-            "conceptID": 390112246
-          },
-          {
-            "text": "接触感冒",
-            "concept": "##待定##"
-          }
+          {"text": "无明显诱因", "concept": "##待定##"},
+          {"text": "受凉后", "conceptID": 390112246},
+          {"text": "接触感冒", "concept": "##待定##"}
         ]
       },
       {
-        "value": {
-          "text": "出现"
-        },
+        "value": {"text": "出现"},
         "tag": "J"
       },
       {
-        "value": {
-          "text": "发热"
-        },
+        "value": {"text": "发热"},
         "tag": "S",
         "type": "单选",
         "choices": [
-          {
-            "text": "发热",
-            "concept": 390182714
-          },
-          {
-            "text": "咳嗽",
-            "conceptID": 390218115
-          }
+          {"text": "发热", "concept": 390182714},
+          {"text": "咳嗽", "conceptID": 390218115}
         ]
       },
       {
-        "value": {
-          "text": "，"
-        },
+        "value": {"text": "，"},
         "tag": "X"
       }
     ],
