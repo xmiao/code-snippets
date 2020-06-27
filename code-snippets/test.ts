@@ -91,7 +91,14 @@ let rst = data
         let answer_display = data.answer_display[i];
         let answer_structure = data.answer_structure[i];
         let answer_id = data.answer_id[i];
-        return {score, answer_display, answer_structure, answer_id};
+        const regexp = /([^|A-Z]+)\|([A-Z])/g;
+        const matches = answer_structure.matchAll(regexp);
+        const structure = Array.from(matches, m => {
+            let [all, text, type] = m;
+            return {text, type};
+        });
+
+        return {score, display: answer_display, structure, structure2: answer_structure, answer_id};
     });
 
 console.log(JSON.stringify(rst, null, "  "));

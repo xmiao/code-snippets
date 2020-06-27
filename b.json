@@ -1,0 +1,2810 @@
+[
+  '患儿|P',
+  '患儿',
+  'P',
+  index
+  :
+  0,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '入院前{数值|T',
+  '入院前{数值',
+  'T',
+  index
+  :
+  4,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '}天|T',
+  '}天',
+  'T',
+  index
+  :
+  12,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '无|J',
+  '无',
+  'J',
+  index
+  :
+  16,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '明显|D',
+  '明显',
+  'D',
+  index
+  :
+  19,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '诱因|S',
+  '诱因',
+  'S',
+  index
+  :
+  23,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '出现|J',
+  '出现',
+  'J',
+  index
+  :
+  27,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '发热|S',
+  '发热',
+  'S',
+  index
+  :
+  31,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '，|X',
+  '，',
+  'X',
+  index
+  :
+  35,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '患儿|P',
+  '患儿',
+  'P',
+  index
+  :
+  0,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '入院前{数值|T',
+  '入院前{数值',
+  'T',
+  index
+  :
+  4,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '}天|T',
+  '}天',
+  'T',
+  index
+  :
+  12,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '无|J',
+  '无',
+  'J',
+  index
+  :
+  16,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '明显|D',
+  '明显',
+  'D',
+  index
+  :
+  19,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '诱因|S',
+  '诱因',
+  'S',
+  index
+  :
+  23,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '出现|J',
+  '出现',
+  'J',
+  index
+  :
+  27,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '咳嗽|S',
+  '咳嗽',
+  'S',
+  index
+  :
+  31,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '，|X',
+  '，',
+  'X',
+  index
+  :
+  35,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '患儿|P',
+  '患儿',
+  'P',
+  index
+  :
+  0,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '于|Z',
+  '于',
+  'Z',
+  index
+  :
+  4,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '入院前{数值|T',
+  '入院前{数值',
+  'T',
+  index
+  :
+  7,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '}天|T',
+  '}天',
+  'T',
+  index
+  :
+  15,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '无|J',
+  '无',
+  'J',
+  index
+  :
+  19,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '明显|D',
+  '明显',
+  'D',
+  index
+  :
+  22,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '诱因|S',
+  '诱因',
+  'S',
+  index
+  :
+  26,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '出现|J',
+  '出现',
+  'J',
+  index
+  :
+  30,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '发热|S',
+  '发热',
+  'S',
+  index
+  :
+  34,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '，|X',
+  '，',
+  'X',
+  index
+  :
+  38,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '患儿|P',
+  '患儿',
+  'P',
+  index
+  :
+  0,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '于|Z',
+  '于',
+  'Z',
+  index
+  :
+  4,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '入院前{数值|T',
+  '入院前{数值',
+  'T',
+  index
+  :
+  7,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '}天|T',
+  '}天',
+  'T',
+  index
+  :
+  15,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '无|J',
+  '无',
+  'J',
+  index
+  :
+  19,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '明显|D',
+  '明显',
+  'D',
+  index
+  :
+  22,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '诱因|S',
+  '诱因',
+  'S',
+  index
+  :
+  26,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '出现|J',
+  '出现',
+  'J',
+  index
+  :
+  30,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '咳嗽|S',
+  '咳嗽',
+  'S',
+  index
+  :
+  34,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '，|X',
+  '，',
+  'X',
+  index
+  :
+  38,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '患儿|P',
+  '患儿',
+  'P',
+  index
+  :
+  0,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '入院前{数值|T',
+  '入院前{数值',
+  'T',
+  index
+  :
+  4,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '}天|T',
+  '}天',
+  'T',
+  index
+  :
+  12,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '出现|J',
+  '出现',
+  'J',
+  index
+  :
+  16,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '发热|S',
+  '发热',
+  'S',
+  index
+  :
+  20,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '，|X',
+  '，',
+  'X',
+  index
+  :
+  24,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '患儿|P',
+  '患儿',
+  'P',
+  index
+  :
+  0,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '入院前{数值|T',
+  '入院前{数值',
+  'T',
+  index
+  :
+  4,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '}天|T',
+  '}天',
+  'T',
+  index
+  :
+  12,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '出现|J',
+  '出现',
+  'J',
+  index
+  :
+  16,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '咳嗽|S',
+  '咳嗽',
+  'S',
+  index
+  :
+  20,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '，|X',
+  '，',
+  'X',
+  index
+  :
+  24,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '入院前{数值}天|T',
+  '入院前{数值}天',
+  'T',
+  index
+  :
+  0,
+  input
+  :
+  '入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '患儿|P',
+  '患儿',
+  'P',
+  index
+  :
+  10,
+  input
+  :
+  '入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '无|J',
+  '无',
+  'J',
+  index
+  :
+  14,
+  input
+  :
+  '入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '明显|D',
+  '明显',
+  'D',
+  index
+  :
+  17,
+  input
+  :
+  '入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '诱因|S',
+  '诱因',
+  'S',
+  index
+  :
+  21,
+  input
+  :
+  '入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '出现|J',
+  '出现',
+  'J',
+  index
+  :
+  25,
+  input
+  :
+  '入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '咳嗽|S',
+  '咳嗽',
+  'S',
+  index
+  :
+  29,
+  input
+  :
+  '入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '，|X',
+  '，',
+  'X',
+  index
+  :
+  33,
+  input
+  :
+  '入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '入院前{数值}天|T',
+  '入院前{数值}天',
+  'T',
+  index
+  :
+  0,
+  input
+  :
+  '入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '患儿|P',
+  '患儿',
+  'P',
+  index
+  :
+  10,
+  input
+  :
+  '入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '无|J',
+  '无',
+  'J',
+  index
+  :
+  14,
+  input
+  :
+  '入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '明显|D',
+  '明显',
+  'D',
+  index
+  :
+  17,
+  input
+  :
+  '入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '诱因|S',
+  '诱因',
+  'S',
+  index
+  :
+  21,
+  input
+  :
+  '入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '出现|J',
+  '出现',
+  'J',
+  index
+  :
+  25,
+  input
+  :
+  '入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '发热|S',
+  '发热',
+  'S',
+  index
+  :
+  29,
+  input
+  :
+  '入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '，|X',
+  '，',
+  'X',
+  index
+  :
+  33,
+  input
+  :
+  '入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '患儿|P',
+  '患儿',
+  'P',
+  index
+  :
+  0,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '于|Z',
+  '于',
+  'Z',
+  index
+  :
+  4,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '入院前{数值|T',
+  '入院前{数值',
+  'T',
+  index
+  :
+  7,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '}天|T',
+  '}天',
+  'T',
+  index
+  :
+  15,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '出现|J',
+  '出现',
+  'J',
+  index
+  :
+  19,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '发热|S',
+  '发热',
+  'S',
+  index
+  :
+  23,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '，|X',
+  '，',
+  'X',
+  index
+  :
+  27,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '患儿|P',
+  '患儿',
+  'P',
+  index
+  :
+  0,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '于|Z',
+  '于',
+  'Z',
+  index
+  :
+  4,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '入院前{数值|T',
+  '入院前{数值',
+  'T',
+  index
+  :
+  7,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '}天|T',
+  '}天',
+  'T',
+  index
+  :
+  15,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '出现|J',
+  '出现',
+  'J',
+  index
+  :
+  19,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '咳嗽|S',
+  '咳嗽',
+  'S',
+  index
+  :
+  23,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '，|X',
+  '，',
+  'X',
+  index
+  :
+  27,
+  input
+  :
+  '患儿|P于|Z入院前{数值|T}天|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '患儿|P',
+  '患儿',
+  'P',
+  index
+  :
+  0,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J单声咳|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '入院前{数值|T',
+  '入院前{数值',
+  'T',
+  index
+  :
+  4,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J单声咳|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '}天|T',
+  '}天',
+  'T',
+  index
+  :
+  12,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J单声咳|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '无|J',
+  '无',
+  'J',
+  index
+  :
+  16,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J单声咳|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '明显|D',
+  '明显',
+  'D',
+  index
+  :
+  19,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J单声咳|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '诱因|S',
+  '诱因',
+  'S',
+  index
+  :
+  23,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J单声咳|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '出现|J',
+  '出现',
+  'J',
+  index
+  :
+  27,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J单声咳|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '单声咳|S',
+  '单声咳',
+  'S',
+  index
+  :
+  31,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J单声咳|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '，|X',
+  '，',
+  'X',
+  index
+  :
+  36,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J单声咳|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '患儿|P',
+  '患儿',
+  'P',
+  index
+  :
+  0,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T受凉后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '入院前{数值|T',
+  '入院前{数值',
+  'T',
+  index
+  :
+  4,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T受凉后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '}天|T',
+  '}天',
+  'T',
+  index
+  :
+  12,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T受凉后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '受凉后|T',
+  '受凉后',
+  'T',
+  index
+  :
+  16,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T受凉后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '出现|J',
+  '出现',
+  'J',
+  index
+  :
+  21,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T受凉后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '发热|S',
+  '发热',
+  'S',
+  index
+  :
+  25,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T受凉后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '，|X',
+  '，',
+  'X',
+  index
+  :
+  29,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T受凉后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '患儿|P',
+  '患儿',
+  'P',
+  index
+  :
+  0,
+  input
+  :
+  '患儿|P入院前{数值|T}月余|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '入院前{数值|T',
+  '入院前{数值',
+  'T',
+  index
+  :
+  4,
+  input
+  :
+  '患儿|P入院前{数值|T}月余|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '}月余|T',
+  '}月余',
+  'T',
+  index
+  :
+  12,
+  input
+  :
+  '患儿|P入院前{数值|T}月余|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '无|J',
+  '无',
+  'J',
+  index
+  :
+  17,
+  input
+  :
+  '患儿|P入院前{数值|T}月余|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '明显|D',
+  '明显',
+  'D',
+  index
+  :
+  20,
+  input
+  :
+  '患儿|P入院前{数值|T}月余|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '诱因|S',
+  '诱因',
+  'S',
+  index
+  :
+  24,
+  input
+  :
+  '患儿|P入院前{数值|T}月余|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '出现|J',
+  '出现',
+  'J',
+  index
+  :
+  28,
+  input
+  :
+  '患儿|P入院前{数值|T}月余|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '咳嗽|S',
+  '咳嗽',
+  'S',
+  index
+  :
+  32,
+  input
+  :
+  '患儿|P入院前{数值|T}月余|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '，|X',
+  '，',
+  'X',
+  index
+  :
+  36,
+  input
+  :
+  '患儿|P入院前{数值|T}月余|T无|J明显|D诱因|S出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '患儿|P',
+  '患儿',
+  'P',
+  index
+  :
+  0,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T出现|J单声咳|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '入院前{数值|T',
+  '入院前{数值',
+  'T',
+  index
+  :
+  4,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T出现|J单声咳|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '}天|T',
+  '}天',
+  'T',
+  index
+  :
+  12,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T出现|J单声咳|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '出现|J',
+  '出现',
+  'J',
+  index
+  :
+  16,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T出现|J单声咳|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '单声咳|S',
+  '单声咳',
+  'S',
+  index
+  :
+  20,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T出现|J单声咳|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '，|X',
+  '，',
+  'X',
+  index
+  :
+  25,
+  input
+  :
+  '患儿|P入院前{数值|T}天|T出现|J单声咳|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '患儿|P',
+  '患儿',
+  'P',
+  index
+  :
+  0,
+  input
+  :
+  '患儿|P系学|I龄期|I儿童|X，|X',
+  groups
+  :
+  undefined
+]
+[
+  '系学|I',
+  '系学',
+  'I',
+  index
+  :
+  4,
+  input
+  :
+  '患儿|P系学|I龄期|I儿童|X，|X',
+  groups
+  :
+  undefined
+]
+[
+  '龄期|I',
+  '龄期',
+  'I',
+  index
+  :
+  8,
+  input
+  :
+  '患儿|P系学|I龄期|I儿童|X，|X',
+  groups
+  :
+  undefined
+]
+[
+  '儿童|X',
+  '儿童',
+  'X',
+  index
+  :
+  12,
+  input
+  :
+  '患儿|P系学|I龄期|I儿童|X，|X',
+  groups
+  :
+  undefined
+]
+[
+  '，|X',
+  '，',
+  'X',
+  index
+  :
+  16,
+  input
+  :
+  '患儿|P系学|I龄期|I儿童|X，|X',
+  groups
+  :
+  undefined
+]
+[
+  '患儿|P',
+  '患儿',
+  'P',
+  index
+  :
+  0,
+  input
+  :
+  '患儿|P入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '入院前|T',
+  '入院前',
+  'T',
+  index
+  :
+  4,
+  input
+  :
+  '患儿|P入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '{数|C',
+  '{数',
+  'C',
+  index
+  :
+  9,
+  input
+  :
+  '患儿|P入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '值|V',
+  '值',
+  'V',
+  index
+  :
+  13,
+  input
+  :
+  '患儿|P入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '}天|V',
+  '}天',
+  'V',
+  index
+  :
+  16,
+  input
+  :
+  '患儿|P入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '接触|S',
+  '接触',
+  'S',
+  index
+  :
+  20,
+  input
+  :
+  '患儿|P入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '“|X',
+  '“',
+  'X',
+  index
+  :
+  24,
+  input
+  :
+  '患儿|P入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '感冒|N',
+  '感冒',
+  'N',
+  index
+  :
+  27,
+  input
+  :
+  '患儿|P入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '”|X',
+  '”',
+  'X',
+  index
+  :
+  31,
+  input
+  :
+  '患儿|P入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '患者|P',
+  '患者',
+  'P',
+  index
+  :
+  34,
+  input
+  :
+  '患儿|P入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '后|T',
+  '后',
+  'T',
+  index
+  :
+  38,
+  input
+  :
+  '患儿|P入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '出现|J',
+  '出现',
+  'J',
+  index
+  :
+  41,
+  input
+  :
+  '患儿|P入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '发热|S',
+  '发热',
+  'S',
+  index
+  :
+  45,
+  input
+  :
+  '患儿|P入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '，|X',
+  '，',
+  'X',
+  index
+  :
+  49,
+  input
+  :
+  '患儿|P入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J发热|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '患儿|P',
+  '患儿',
+  'P',
+  index
+  :
+  0,
+  input
+  :
+  '患儿|P起病急|Z，|X',
+  groups
+  :
+  undefined
+]
+[
+  '起病急|Z',
+  '起病急',
+  'Z',
+  index
+  :
+  4,
+  input
+  :
+  '患儿|P起病急|Z，|X',
+  groups
+  :
+  undefined
+]
+[
+  '，|X',
+  '，',
+  'X',
+  index
+  :
+  9,
+  input
+  :
+  '患儿|P起病急|Z，|X',
+  groups
+  :
+  undefined
+]
+[
+  '患儿|P',
+  '患儿',
+  'P',
+  index
+  :
+  0,
+  input
+  :
+  '患儿|P于|Z入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '于|Z',
+  '于',
+  'Z',
+  index
+  :
+  4,
+  input
+  :
+  '患儿|P于|Z入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '入院前|T',
+  '入院前',
+  'T',
+  index
+  :
+  7,
+  input
+  :
+  '患儿|P于|Z入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '{数|C',
+  '{数',
+  'C',
+  index
+  :
+  12,
+  input
+  :
+  '患儿|P于|Z入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '值|V',
+  '值',
+  'V',
+  index
+  :
+  16,
+  input
+  :
+  '患儿|P于|Z入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '}天|V',
+  '}天',
+  'V',
+  index
+  :
+  19,
+  input
+  :
+  '患儿|P于|Z入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '接触|S',
+  '接触',
+  'S',
+  index
+  :
+  23,
+  input
+  :
+  '患儿|P于|Z入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '“|X',
+  '“',
+  'X',
+  index
+  :
+  27,
+  input
+  :
+  '患儿|P于|Z入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '感冒|N',
+  '感冒',
+  'N',
+  index
+  :
+  30,
+  input
+  :
+  '患儿|P于|Z入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '”|X',
+  '”',
+  'X',
+  index
+  :
+  34,
+  input
+  :
+  '患儿|P于|Z入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '患者|P',
+  '患者',
+  'P',
+  index
+  :
+  37,
+  input
+  :
+  '患儿|P于|Z入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '后|T',
+  '后',
+  'T',
+  index
+  :
+  41,
+  input
+  :
+  '患儿|P于|Z入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '出现|J',
+  '出现',
+  'J',
+  index
+  :
+  44,
+  input
+  :
+  '患儿|P于|Z入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '咳嗽|S',
+  '咳嗽',
+  'S',
+  index
+  :
+  48,
+  input
+  :
+  '患儿|P于|Z入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  '，|X',
+  '，',
+  'X',
+  index
+  :
+  52,
+  input
+  :
+  '患儿|P于|Z入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J咳嗽|S，|X',
+  groups
+  :
+  undefined
+]
+[
+  {
+    "score": 6.91,
+    "answer_display": "患儿入院前＿天无明显诱因出现发热，",
+    "s2": [
+      {
+        "text": "患儿",
+        "type": "P"
+      },
+      {
+        "text": "入院前{数值",
+        "type": "T"
+      },
+      {
+        "text": "}天",
+        "type": "T"
+      },
+      {
+        "text": "无",
+        "type": "J"
+      },
+      {
+        "text": "明显",
+        "type": "D"
+      },
+      {
+        "text": "诱因",
+        "type": "S"
+      },
+      {
+        "text": "出现",
+        "type": "J"
+      },
+      {
+        "text": "发热",
+        "type": "S"
+      },
+      {
+        "text": "，",
+        "type": "X"
+      }
+    ],
+    "answer_structure": "患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X",
+    "answer_id": 7
+  },
+  {
+    "score": 6.2,
+    "answer_display": "患儿入院前＿天无明显诱因出现咳嗽，",
+    "s2": [
+      {
+        "text": "患儿",
+        "type": "P"
+      },
+      {
+        "text": "入院前{数值",
+        "type": "T"
+      },
+      {
+        "text": "}天",
+        "type": "T"
+      },
+      {
+        "text": "无",
+        "type": "J"
+      },
+      {
+        "text": "明显",
+        "type": "D"
+      },
+      {
+        "text": "诱因",
+        "type": "S"
+      },
+      {
+        "text": "出现",
+        "type": "J"
+      },
+      {
+        "text": "咳嗽",
+        "type": "S"
+      },
+      {
+        "text": "，",
+        "type": "X"
+      }
+    ],
+    "answer_structure": "患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X",
+    "answer_id": 11
+  },
+  {
+    "score": 3.24,
+    "answer_display": "患儿于入院前＿天无明显诱因出现发热，",
+    "s2": [
+      {
+        "text": "患儿",
+        "type": "P"
+      },
+      {
+        "text": "于",
+        "type": "Z"
+      },
+      {
+        "text": "入院前{数值",
+        "type": "T"
+      },
+      {
+        "text": "}天",
+        "type": "T"
+      },
+      {
+        "text": "无",
+        "type": "J"
+      },
+      {
+        "text": "明显",
+        "type": "D"
+      },
+      {
+        "text": "诱因",
+        "type": "S"
+      },
+      {
+        "text": "出现",
+        "type": "J"
+      },
+      {
+        "text": "发热",
+        "type": "S"
+      },
+      {
+        "text": "，",
+        "type": "X"
+      }
+    ],
+    "answer_structure": "患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X",
+    "answer_id": 6
+  },
+  {
+    "score": 2.28,
+    "answer_display": "患儿于入院前＿天无明显诱因出现咳嗽，",
+    "s2": [
+      {
+        "text": "患儿",
+        "type": "P"
+      },
+      {
+        "text": "于",
+        "type": "Z"
+      },
+      {
+        "text": "入院前{数值",
+        "type": "T"
+      },
+      {
+        "text": "}天",
+        "type": "T"
+      },
+      {
+        "text": "无",
+        "type": "J"
+      },
+      {
+        "text": "明显",
+        "type": "D"
+      },
+      {
+        "text": "诱因",
+        "type": "S"
+      },
+      {
+        "text": "出现",
+        "type": "J"
+      },
+      {
+        "text": "咳嗽",
+        "type": "S"
+      },
+      {
+        "text": "，",
+        "type": "X"
+      }
+    ],
+    "answer_structure": "患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X",
+    "answer_id": 8
+  },
+  {
+    "score": 2.25,
+    "answer_display": "患儿入院前＿天出现发热，",
+    "s2": [
+      {
+        "text": "患儿",
+        "type": "P"
+      },
+      {
+        "text": "入院前{数值",
+        "type": "T"
+      },
+      {
+        "text": "}天",
+        "type": "T"
+      },
+      {
+        "text": "出现",
+        "type": "J"
+      },
+      {
+        "text": "发热",
+        "type": "S"
+      },
+      {
+        "text": "，",
+        "type": "X"
+      }
+    ],
+    "answer_structure": "患儿|P入院前{数值|T}天|T出现|J发热|S，|X",
+    "answer_id": 83
+  },
+  {
+    "score": 1.43,
+    "answer_display": "患儿入院前＿天出现咳嗽，",
+    "s2": [
+      {
+        "text": "患儿",
+        "type": "P"
+      },
+      {
+        "text": "入院前{数值",
+        "type": "T"
+      },
+      {
+        "text": "}天",
+        "type": "T"
+      },
+      {
+        "text": "出现",
+        "type": "J"
+      },
+      {
+        "text": "咳嗽",
+        "type": "S"
+      },
+      {
+        "text": "，",
+        "type": "X"
+      }
+    ],
+    "answer_structure": "患儿|P入院前{数值|T}天|T出现|J咳嗽|S，|X",
+    "answer_id": 52
+  },
+  {
+    "score": 0.89,
+    "answer_display": "入院前＿天患儿无明显诱因出现咳嗽，",
+    "s2": [
+      {
+        "text": "入院前{数值}天",
+        "type": "T"
+      },
+      {
+        "text": "患儿",
+        "type": "P"
+      },
+      {
+        "text": "无",
+        "type": "J"
+      },
+      {
+        "text": "明显",
+        "type": "D"
+      },
+      {
+        "text": "诱因",
+        "type": "S"
+      },
+      {
+        "text": "出现",
+        "type": "J"
+      },
+      {
+        "text": "咳嗽",
+        "type": "S"
+      },
+      {
+        "text": "，",
+        "type": "X"
+      }
+    ],
+    "answer_structure": "入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J咳嗽|S，|X",
+    "answer_id": 30
+  },
+  {
+    "score": 0.86,
+    "answer_display": "入院前＿天患儿无明显诱因出现发热，",
+    "s2": [
+      {
+        "text": "入院前{数值}天",
+        "type": "T"
+      },
+      {
+        "text": "患儿",
+        "type": "P"
+      },
+      {
+        "text": "无",
+        "type": "J"
+      },
+      {
+        "text": "明显",
+        "type": "D"
+      },
+      {
+        "text": "诱因",
+        "type": "S"
+      },
+      {
+        "text": "出现",
+        "type": "J"
+      },
+      {
+        "text": "发热",
+        "type": "S"
+      },
+      {
+        "text": "，",
+        "type": "X"
+      }
+    ],
+    "answer_structure": "入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J发热|S，|X",
+    "answer_id": 4
+  },
+  {
+    "score": 0.78,
+    "answer_display": "患儿于入院前＿天出现发热，",
+    "s2": [
+      {
+        "text": "患儿",
+        "type": "P"
+      },
+      {
+        "text": "于",
+        "type": "Z"
+      },
+      {
+        "text": "入院前{数值",
+        "type": "T"
+      },
+      {
+        "text": "}天",
+        "type": "T"
+      },
+      {
+        "text": "出现",
+        "type": "J"
+      },
+      {
+        "text": "发热",
+        "type": "S"
+      },
+      {
+        "text": "，",
+        "type": "X"
+      }
+    ],
+    "answer_structure": "患儿|P于|Z入院前{数值|T}天|T出现|J发热|S，|X",
+    "answer_id": 854
+  },
+  {
+    "score": 0.75,
+    "answer_display": "患儿于入院前＿天出现咳嗽，",
+    "s2": [
+      {
+        "text": "患儿",
+        "type": "P"
+      },
+      {
+        "text": "于",
+        "type": "Z"
+      },
+      {
+        "text": "入院前{数值",
+        "type": "T"
+      },
+      {
+        "text": "}天",
+        "type": "T"
+      },
+      {
+        "text": "出现",
+        "type": "J"
+      },
+      {
+        "text": "咳嗽",
+        "type": "S"
+      },
+      {
+        "text": "，",
+        "type": "X"
+      }
+    ],
+    "answer_structure": "患儿|P于|Z入院前{数值|T}天|T出现|J咳嗽|S，|X",
+    "answer_id": 164
+  },
+  {
+    "score": 0.71,
+    "answer_display": "患儿入院前＿天无明显诱因出现单声咳，",
+    "s2": [
+      {
+        "text": "患儿",
+        "type": "P"
+      },
+      {
+        "text": "入院前{数值",
+        "type": "T"
+      },
+      {
+        "text": "}天",
+        "type": "T"
+      },
+      {
+        "text": "无",
+        "type": "J"
+      },
+      {
+        "text": "明显",
+        "type": "D"
+      },
+      {
+        "text": "诱因",
+        "type": "S"
+      },
+      {
+        "text": "出现",
+        "type": "J"
+      },
+      {
+        "text": "单声咳",
+        "type": "S"
+      },
+      {
+        "text": "，",
+        "type": "X"
+      }
+    ],
+    "answer_structure": "患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J单声咳|S，|X",
+    "answer_id": 1460
+  },
+  {
+    "score": 0.46,
+    "answer_display": "患儿入院前＿天受凉后出现发热，",
+    "s2": [
+      {
+        "text": "患儿",
+        "type": "P"
+      },
+      {
+        "text": "入院前{数值",
+        "type": "T"
+      },
+      {
+        "text": "}天",
+        "type": "T"
+      },
+      {
+        "text": "受凉后",
+        "type": "T"
+      },
+      {
+        "text": "出现",
+        "type": "J"
+      },
+      {
+        "text": "发热",
+        "type": "S"
+      },
+      {
+        "text": "，",
+        "type": "X"
+      }
+    ],
+    "answer_structure": "患儿|P入院前{数值|T}天|T受凉后|T出现|J发热|S，|X",
+    "answer_id": 744
+  },
+  {
+    "score": 0.36,
+    "answer_display": "患儿入院前＿月余无明显诱因出现咳嗽，",
+    "s2": [
+      {
+        "text": "患儿",
+        "type": "P"
+      },
+      {
+        "text": "入院前{数值",
+        "type": "T"
+      },
+      {
+        "text": "}月余",
+        "type": "T"
+      },
+      {
+        "text": "无",
+        "type": "J"
+      },
+      {
+        "text": "明显",
+        "type": "D"
+      },
+      {
+        "text": "诱因",
+        "type": "S"
+      },
+      {
+        "text": "出现",
+        "type": "J"
+      },
+      {
+        "text": "咳嗽",
+        "type": "S"
+      },
+      {
+        "text": "，",
+        "type": "X"
+      }
+    ],
+    "answer_structure": "患儿|P入院前{数值|T}月余|T无|J明显|D诱因|S出现|J咳嗽|S，|X",
+    "answer_id": 125
+  },
+  {
+    "score": 0.36,
+    "answer_display": "患儿入院前＿天出现单声咳，",
+    "s2": [
+      {
+        "text": "患儿",
+        "type": "P"
+      },
+      {
+        "text": "入院前{数值",
+        "type": "T"
+      },
+      {
+        "text": "}天",
+        "type": "T"
+      },
+      {
+        "text": "出现",
+        "type": "J"
+      },
+      {
+        "text": "单声咳",
+        "type": "S"
+      },
+      {
+        "text": "，",
+        "type": "X"
+      }
+    ],
+    "answer_structure": "患儿|P入院前{数值|T}天|T出现|J单声咳|S，|X",
+    "answer_id": 839
+  },
+  {
+    "score": 0.29,
+    "answer_display": "患儿系学龄期儿童，",
+    "s2": [
+      {
+        "text": "患儿",
+        "type": "P"
+      },
+      {
+        "text": "系学",
+        "type": "I"
+      },
+      {
+        "text": "龄期",
+        "type": "I"
+      },
+      {
+        "text": "儿童",
+        "type": "X"
+      },
+      {
+        "text": "，",
+        "type": "X"
+      }
+    ],
+    "answer_structure": "患儿|P系学|I龄期|I儿童|X，|X",
+    "answer_id": 566
+  },
+  {
+    "score": 0.29,
+    "answer_display": "患儿入院前＿天接触“感冒”患者后出现发热，",
+    "s2": [
+      {
+        "text": "患儿",
+        "type": "P"
+      },
+      {
+        "text": "入院前",
+        "type": "T"
+      },
+      {
+        "text": "{数",
+        "type": "C"
+      },
+      {
+        "text": "值",
+        "type": "V"
+      },
+      {
+        "text": "}天",
+        "type": "V"
+      },
+      {
+        "text": "接触",
+        "type": "S"
+      },
+      {
+        "text": "“",
+        "type": "X"
+      },
+      {
+        "text": "感冒",
+        "type": "N"
+      },
+      {
+        "text": "”",
+        "type": "X"
+      },
+      {
+        "text": "患者",
+        "type": "P"
+      },
+      {
+        "text": "后",
+        "type": "T"
+      },
+      {
+        "text": "出现",
+        "type": "J"
+      },
+      {
+        "text": "发热",
+        "type": "S"
+      },
+      {
+        "text": "，",
+        "type": "X"
+      }
+    ],
+    "answer_structure": "患儿|P入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J发热|S，|X",
+    "answer_id": 928
+  },
+  {
+    "score": 0.29,
+    "answer_display": "患儿起病急，",
+    "s2": [
+      {
+        "text": "患儿",
+        "type": "P"
+      },
+      {
+        "text": "起病急",
+        "type": "Z"
+      },
+      {
+        "text": "，",
+        "type": "X"
+      }
+    ],
+    "answer_structure": "患儿|P起病急|Z，|X",
+    "answer_id": 2405
+  },
+  {
+    "score": 0.25,
+    "answer_display": "患儿于入院前＿天接触“感冒”患者后出现咳嗽，",
+    "s2": [
+      {
+        "text": "患儿",
+        "type": "P"
+      },
+      {
+        "text": "于",
+        "type": "Z"
+      },
+      {
+        "text": "入院前",
+        "type": "T"
+      },
+      {
+        "text": "{数",
+        "type": "C"
+      },
+      {
+        "text": "值",
+        "type": "V"
+      },
+      {
+        "text": "}天",
+        "type": "V"
+      },
+      {
+        "text": "接触",
+        "type": "S"
+      },
+      {
+        "text": "“",
+        "type": "X"
+      },
+      {
+        "text": "感冒",
+        "type": "N"
+      },
+      {
+        "text": "”",
+        "type": "X"
+      },
+      {
+        "text": "患者",
+        "type": "P"
+      },
+      {
+        "text": "后",
+        "type": "T"
+      },
+      {
+        "text": "出现",
+        "type": "J"
+      },
+      {
+        "text": "咳嗽",
+        "type": "S"
+      },
+      {
+        "text": "，",
+        "type": "X"
+      }
+    ],
+    "answer_structure": "患儿|P于|Z入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J咳嗽|S，|X",
+    "answer_id": 33
+  }
+]

@@ -16,11 +16,11 @@
     "typescript": "^3.7.5"
   },
   "scripts": {
+    "start:codeSnippets": "ts-node ./code-snippets/test.ts",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "start:idea": "ts-node ./code-scnippets/test.ts"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"

@@ -1,7 +1,7 @@
 [
   {
     "score": 6.91,
-    "display": "患儿入院前＿天无明显诱因出现发热，",
+    "answer_display": "患儿入院前＿天无明显诱因出现发热，",
     "s2": [
       {
         "text": "患儿入院前{数值}天",
@@ -24,12 +24,12 @@
         "type": "X"
       }
     ],
-    "structure2": "患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X",
+    "answer_structure": "患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X",
     "answer_id": 7
   },
   {
     "score": 6.2,
-    "display": "患儿入院前＿天无明显诱因出现咳嗽，",
+    "answer_display": "患儿入院前＿天无明显诱因出现咳嗽，",
     "s2": [
       {
         "text": "患儿入院前{数值}天",
@@ -54,12 +54,12 @@
         "type": "X"
       }
     ],
-    "structure2": "患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X",
+    "answer_structure": "患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X",
     "answer_id": 11
   },
   {
     "score": 3.24,
-    "display": "患儿于入院前＿天无明显诱因出现发热，",
+    "answer_display": "患儿于入院前＿天无明显诱因出现发热，",
     "s2": [
       {
         "text": "患儿于入院前{数值}天",
@@ -82,12 +82,12 @@
         "type": "X"
       }
     ],
-    "structure2": "患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X",
+    "answer_structure": "患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J发热|S，|X",
     "answer_id": 6
   },
   {
     "score": 2.28,
-    "display": "患儿于入院前＿天无明显诱因出现咳嗽，",
+    "answer_display": "患儿于入院前＿天无明显诱因出现咳嗽，",
     "s2": [
       {
         "text": "患儿于入院前{数值}天",
@@ -110,12 +110,12 @@
         "type": "X"
       }
     ],
-    "structure2": "患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X",
+    "answer_structure": "患儿|P于|Z入院前{数值|T}天|T无|J明显|D诱因|S出现|J咳嗽|S，|X",
     "answer_id": 8
   },
   {
     "score": 2.25,
-    "display": "患儿入院前＿天出现发热，",
+    "answer_display": "患儿入院前＿天出现发热，",
     "s2": [
       {
         "text": "患儿入院前{数值}天",
@@ -134,12 +134,12 @@
         "type": "X"
       }
     ],
-    "structure2": "患儿|P入院前{数值|T}天|T出现|J发热|S，|X",
+    "answer_structure": "患儿|P入院前{数值|T}天|T出现|J发热|S，|X",
     "answer_id": 83
   },
   {
     "score": 1.43,
-    "display": "患儿入院前＿天出现咳嗽，",
+    "answer_display": "患儿入院前＿天出现咳嗽，",
     "s2": [
       {
         "text": "患儿入院前{数值}天",
@@ -158,12 +158,12 @@
         "type": "X"
       }
     ],
-    "structure2": "患儿|P入院前{数值|T}天|T出现|J咳嗽|S，|X",
+    "answer_structure": "患儿|P入院前{数值|T}天|T出现|J咳嗽|S，|X",
     "answer_id": 52
   },
   {
     "score": 0.89,
-    "display": "入院前＿天患儿无明显诱因出现咳嗽，",
+    "answer_display": "入院前＿天患儿无明显诱因出现咳嗽，",
     "s2": [
       {
         "text": "入院前{数值}天",
@@ -190,12 +190,12 @@
         "type": "X"
       }
     ],
-    "structure2": "入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J咳嗽|S，|X",
+    "answer_structure": "入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J咳嗽|S，|X",
     "answer_id": 30
   },
   {
     "score": 0.86,
-    "display": "入院前＿天患儿无明显诱因出现发热，",
+    "answer_display": "入院前＿天患儿无明显诱因出现发热，",
     "s2": [
       {
         "text": "入院前{数值}天",
@@ -222,12 +222,12 @@
         "type": "X"
       }
     ],
-    "structure2": "入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J发热|S，|X",
+    "answer_structure": "入院前{数值}天|T患儿|P无|J明显|D诱因|S出现|J发热|S，|X",
     "answer_id": 4
   },
   {
     "score": 0.78,
-    "display": "患儿于入院前＿天出现发热，",
+    "answer_display": "患儿于入院前＿天出现发热，",
     "s2": [
       {
         "text": "患儿",
@@ -250,12 +250,12 @@
         "type": "X"
       }
     ],
-    "structure2": "患儿|P于|Z入院前{数值|T}天|T出现|J发热|S，|X",
+    "answer_structure": "患儿|P于|Z入院前{数值|T}天|T出现|J发热|S，|X",
     "answer_id": 854
   },
   {
     "score": 0.75,
-    "display": "患儿于入院前＿天出现咳嗽，",
+    "answer_display": "患儿于入院前＿天出现咳嗽，",
     "s2": [
       {
         "text": "患儿于入院前{数值}天",
@@ -274,12 +274,12 @@
         "type": "X"
       }
     ],
-    "structure2": "患儿|P于|Z入院前{数值|T}天|T出现|J咳嗽|S，|X",
+    "answer_structure": "患儿|P于|Z入院前{数值|T}天|T出现|J咳嗽|S，|X",
     "answer_id": 164
   },
   {
     "score": 0.71,
-    "display": "患儿入院前＿天无明显诱因出现单声咳，",
+    "answer_display": "患儿入院前＿天无明显诱因出现单声咳，",
     "s2": [
       {
         "text": "患儿入院前{数值}天",
@@ -302,12 +302,12 @@
         "type": "X"
       }
     ],
-    "structure2": "患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J单声咳|S，|X",
+    "answer_structure": "患儿|P入院前{数值|T}天|T无|J明显|D诱因|S出现|J单声咳|S，|X",
     "answer_id": 1460
   },
   {
     "score": 0.46,
-    "display": "患儿入院前＿天受凉后出现发热，",
+    "answer_display": "患儿入院前＿天受凉后出现发热，",
     "s2": [
       {
         "text": "患儿",
@@ -334,12 +334,12 @@
         "type": "X"
       }
     ],
-    "structure2": "患儿|P入院前{数值|T}天|T受凉后|T出现|J发热|S，|X",
+    "answer_structure": "患儿|P入院前{数值|T}天|T受凉后|T出现|J发热|S，|X",
     "answer_id": 744
   },
   {
     "score": 0.36,
-    "display": "患儿入院前＿月余无明显诱因出现咳嗽，",
+    "answer_display": "患儿入院前＿月余无明显诱因出现咳嗽，",
     "s2": [
       {
         "text": "患儿",
@@ -366,12 +366,12 @@
         "type": "X"
       }
     ],
-    "structure2": "患儿|P入院前{数值|T}月余|T无|J明显|D诱因|S出现|J咳嗽|S，|X",
+    "answer_structure": "患儿|P入院前{数值|T}月余|T无|J明显|D诱因|S出现|J咳嗽|S，|X",
     "answer_id": 125
   },
   {
     "score": 0.36,
-    "display": "患儿入院前＿天出现单声咳，",
+    "answer_display": "患儿入院前＿天出现单声咳，",
     "s2": [
       {
         "text": "患儿入院前{数值}天",
@@ -390,12 +390,12 @@
         "type": "X"
       }
     ],
-    "structure2": "患儿|P入院前{数值|T}天|T出现|J单声咳|S，|X",
+    "answer_structure": "患儿|P入院前{数值|T}天|T出现|J单声咳|S，|X",
     "answer_id": 839
   },
   {
     "score": 0.29,
-    "display": "患儿系学龄期儿童，",
+    "answer_display": "患儿系学龄期儿童，",
     "s2": [
       {
         "text": "患儿",
@@ -410,12 +410,12 @@
         "type": "X"
       }
     ],
-    "structure2": "患儿|P系学|I龄期|I儿童|X，|X",
+    "answer_structure": "患儿|P系学|I龄期|I儿童|X，|X",
     "answer_id": 566
   },
   {
     "score": 0.29,
-    "display": "患儿入院前＿天接触“感冒”患者后出现发热，",
+    "answer_display": "患儿入院前＿天接触“感冒”患者后出现发热，",
     "s2": [
       {
         "text": "患儿入院前{数值}天",
@@ -438,12 +438,12 @@
         "type": "X"
       }
     ],
-    "structure2": "患儿|P入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J发热|S，|X",
+    "answer_structure": "患儿|P入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J发热|S，|X",
     "answer_id": 928
   },
   {
     "score": 0.29,
-    "display": "患儿起病急，",
+    "answer_display": "患儿起病急，",
     "s2": [
       {
         "text": "患儿",
@@ -458,12 +458,12 @@
         "type": "X"
       }
     ],
-    "structure2": "患儿|P起病急|Z，|X",
+    "answer_structure": "患儿|P起病急|Z，|X",
     "answer_id": 2405
   },
   {
     "score": 0.25,
-    "display": "患儿于入院前＿天接触“感冒”患者后出现咳嗽，",
+    "answer_display": "患儿于入院前＿天接触“感冒”患者后出现咳嗽，",
     "s2": [
       {
         "text": "患儿于入院前{数值}天",
@@ -490,7 +490,7 @@
         "type": "X"
       }
     ],
-    "structure2": "患儿|P于|Z入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J咳嗽|S，|X",
+    "answer_structure": "患儿|P于|Z入院前|T{数|C值|V}天|V接触|S“|X感冒|N”|X患者|P后|T出现|J咳嗽|S，|X",
     "answer_id": 33
   }
 ]
