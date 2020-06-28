@@ -18,7 +18,7 @@
   },
   "scripts": {
     "start:codeSnippets": "ts-node ./code-snippets/test.ts",
-    "start:grammar": "ts-node ./code-snippets/test-peg.ts",
+    "start:grammar": "pegjs ./code-snippets/a.gram & ts-node ./code-snippets/test-peg.ts",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

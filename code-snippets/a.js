@@ -10,7 +10,6 @@ function peg$subclass(child, parent) {
   function ctor() {
     this.constructor = child;
   }
-
   ctor.prototype = parent.prototype;
   child.prototype = new ctor();
 }
@@ -496,6 +495,7 @@ function peg$parse(input, options) {
 
     return s0;
   }
+
 
 
   peg$result = peg$startRuleFunction();
