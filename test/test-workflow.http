@@ -1,0 +1,56 @@
+### curl -X POST "http://172.16.6.22:21900/api/v1/coo_task/workflow/process/start" -H "accept: application/json;charset=UTF-8" -H "Content-Type: application/json" -d "{ \"eventId\": 0, \"hospitalSOID\": 10, \"processDeployId\": \"actProcess:8:55041\", \"requestIp\": \"not used\", \"soid\": [10], \"taskInitiatorId\": 0}"
+POST http://{{url}}/api/v1/coo_task/workflow/process/start?W-FLOW=canary&W-SEQ=100
+accept: application/json;charset=UTF-8
+Content-Type: application/json
+
+{
+  "bizCode": "{{bizCode}}",
+  "eventId": 0,
+  "hospitalSOID": 10,
+  "processDeployId": "{{processDeployId}}",
+  "processUserId": {{userID}},
+  "requestIp": "required",
+  "soid": [
+    {{soid}}
+  ],
+  "taskBizParams": {
+    "taskTitle": "some title",
+    "taskBizParams": {
+      "any": "{{$uuid}}"
+    }
+  }
+}
+
+> {%
+   client.global.set("processInstanceId",response.body.data.processInstanceId);
+   client.global.set("processTaskId",response.body.data.processTaskId);
+   client.log(response.body.data.processInstanceId);
+%}
+
+###
+# curl -X POST "http://172.16.6.22:21900/api/v1/coo_task/workflow/process/complete" -H "accept: application/json;charset=UTF-8" -H "Content-Type: application/json" -d "{ \"eventId\": 0, \"gatewayParam\": \"-not used--\", \"hospitalSOID\": 10, \"processInstanceId\": \"62501\", \"processTaskId\": \"62514\", \"processUserId\": \"-- not used--\", \"requestIp\": \"string\", \"soid\": [10]}"
+POST http://172.16.6.22:21900/api/v1/coo_task/workflow/process/complete
+accept: application/json;charset=UTF-8
+Content-Type: application/json
+
+{
+  "eventId": 0,
+  "bizCode": "{{bizCode}}",
+  "gatewayParam": "pass",
+  "hospitalSOID": {{soid}},
+  "processUserId": {{userID}},
+  "requestIp": "required but anything should work",
+  "soid": [
+    {{soid}}
+  ],
+  "taskBizParams": {
+    "additionalProp1": {},
+    "additionalProp2": {},
+    "additionalProp3": {}
+  }
+}
+
+> {%
+   client.global.set("processInstanceId",response.body.data.processInstanceId);
+   client.global.set("processTaskId",response.body.data.processTaskId);
+%}

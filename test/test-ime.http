@@ -1,0 +1,44 @@
+# curl -X POST "http://172.16.6.22:21900/api/v1/coo_task/workflow/process/start" -H "accept: application/json;charset=UTF-8" -H "Content-Type: application/json" -d "{ \"eventId\": 0, \"hospitalSOID\": 10, \"processDeployId\": \"actProcess:8:55041\", \"requestIp\": \"not used\", \"soid\": [10], \"taskInitiatorId\": 0}"
+POST http://172.16.6.158:9003/bm25V3
+accept: application/json;charset=UTF-8
+Content-Type: application/json
+
+{
+  "hospitalId": 4,
+  "department": "全科室",
+  "diagnosis": "肺炎",
+  "contextBefore": [
+    "患者发热5天"
+  ],
+  "contextAfter": [
+    "食欲正常。"
+  ],
+  "queryTxt": "sf",
+  "num_best": 10
+}
+
+####
+POST http://172.16.6.158:9003/bm25V3
+accept: application/json;charset=UTF-8
+Content-Type: application/json
+
+{
+  "hospitalId": 4,
+  "department": "全科室",
+  "diagnosis": "肺炎",
+  "queryTxt": "患者发热5天，体温最高达39℃，伴畏寒寒战，患者家属来我院急诊行相关检查。急诊予患者他唑仙抗感染、激素抗炎等对症支持治疗，现为进一步诊治收入我科。患者自本次发病以来，精神尚可，",
+  "num_best": 10
+}
+
+###
+POST http://172.16.6.158:9003/bm25V3
+accept: application/json;charset=UTF-8
+Content-Type: application/json
+
+{
+  "hospitalId": 4,
+  "department": "全科室",
+  "diagnosis": "肺炎",
+  "queryTxt": "精神尚可，大小便正常，体重未见明显下降。",
+  "num_best": 10
+}

@@ -1,0 +1,45 @@
+POST http://localhost:8080/process
+Accept: */*
+Content-Type: application/json
+Cache-Control: no-cache
+
+{
+  "medOrders": [
+    {
+      "genericName": "阿司匹林",
+      "doseUnit": "g",
+      "dose": 10
+    },
+    {
+      "genericName": "阿司匹林",
+      "doseUnit": "mg",
+      "dose": 20
+    }
+  ],
+  "surgeryHxs": [
+    {
+      "category": "脑外科手术",
+      "incisionType": "II"
+    }
+  ]
+}
+
+###
+#
+#POST http://localhost:8080/saveDrl
+#Accept: */*
+#Content-Type: application/json
+#Cache-Control: no-cache
+#
+#{
+#  "data": [
+#    {
+#      "name": "aaa",
+#      "body": "eeee"
+#    },
+#    {
+#      "name": "aaa22",
+#      "body": "eeee"
+#    }
+#  ]
+#}
